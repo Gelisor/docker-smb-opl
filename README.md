@@ -1,5 +1,7 @@
 ## Dockerized Samba Server for Open PlayStation Loader
 
+## Probably doesn't work so don't waste your time
+
 OPL can stream backed up games from SMB. Although the process of creating a share
 and enabling smb is straightforward for Windows, in MacOS or Linux it is not.
 
